@@ -25,7 +25,7 @@ header {
 }
 
 .map {
-    width: 500px;   /* Bildbreite auf X00px setzen */
+    width: 800px;   /* Bildbreite auf X00px setzen */
     height: auto;   /* Höhe wird automatisch angepasst */
 }
 
