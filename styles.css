@@ -114,3 +114,43 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+/* Test: ---------------Für die Tabelle-------------------------- (01.Apr.2025) */
+
+/* Tabelle passt sich flexibel an */
+/* Flexbox-Container */
+        .container {
+            display: flex;
+            justify-content: center; /* Zentriert die Tabelle */
+            align-items: center;
+            width: 80%; /* Anpassbare Breite */
+            margin: auto;
+            padding: 20px;
+        }
+        .table-container {
+            width: 100%;
+            overflow-x: auto; /* Falls die Tabelle zu groß wird, kann sie gescrollt werden */
+        }
+
+        table {
+            width: 100%; /* Tabelle nimmt die ganze Box ein */
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+
+        /* Responsiveness */
+        @media (max-width: 600px) {
+            th, td {
+                font-size: 12px; /* Kleinere Schrift auf kleinen Bildschirmen */
+                padding: 5px;
+            }
+        }
