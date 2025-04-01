@@ -17,14 +17,22 @@ header {
     left: 0;
     z-index: 1000;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     padding: 1em 0;
 }
 
+.header-topic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+}
+
+
 .header-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     width: 90%;
 }
