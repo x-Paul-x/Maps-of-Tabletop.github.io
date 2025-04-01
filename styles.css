@@ -47,7 +47,8 @@ header nav ul {
 }
 
 header nav ul li {
-    display: inline;
+    display: block;
+    padding: 5px 0;
 }
 
 header nav ul li a {
