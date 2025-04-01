@@ -25,7 +25,7 @@ header {
 }
 
 .bild {
-    width: 500px;   /* Bildbreite auf 300px setzen */
+    width: 300px;   /* Bildbreite auf 300px setzen */
     height: auto;   /* Höhe wird automatisch angepasst */
 }
 
@@ -42,21 +42,23 @@ header {
 
 
 header nav ul {
+    display:flex;
     list-style-type: none;
+    gap: 10px;
     padding: 0;
     margin: 0;
    
 }
 
 header nav ul li {
-    display: block;
+    display: flex;
     padding: 5px 0;
 }
 
 header nav ul li a {
     color: white;
     text-decoration: none;
-    display: block;
+    display: flex;
 }
 
 main {
