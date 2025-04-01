@@ -129,6 +129,7 @@ footer {
         }
         .table-container {
             width: 100%;
+            background-color: #b16824;
             overflow-x: auto; /* Falls die Tabelle zu groß wird, kann sie gescrollt werden */
         }
 
