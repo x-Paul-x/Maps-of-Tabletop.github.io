@@ -22,14 +22,6 @@ header {
     padding: 1em 0;
 }
 
-.header-topic {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 90%;
-}
-
-
 .header-content {
     display: flex;
     justify-content: center;
