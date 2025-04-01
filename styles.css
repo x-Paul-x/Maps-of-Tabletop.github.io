@@ -24,6 +24,14 @@ header {
     padding: 1em 0;
 }
 
+.bild {
+    width: 500px;   /* Bildbreite auf 300px setzen */
+    height: auto;   /* Höhe wird automatisch angepasst */
+}
+
+
+
+
 .header-content {
     display: flex;
     justify-content: space-between;
