@@ -24,8 +24,8 @@ header {
     padding: 1em 0;
 }
 
-.bild {
-    width: 300px;   /* Bildbreite auf 300px setzen */
+.map {
+    width: 500px;   /* Bildbreite auf X00px setzen */
     height: auto;   /* Höhe wird automatisch angepasst */
 }
 
