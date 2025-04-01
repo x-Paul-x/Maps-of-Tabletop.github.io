@@ -145,7 +145,11 @@ footer {
         }
 
         th {
-            background-color: #f4f4f4;
+             background-color: #b0b0b0; /* Dunkelgrau */
+             color: white; /* Weiße Schrift für besseren Kontrast */
+        }
+        td {
+            background-color: #e0e0e0; /* Hellgrau */
         }
 
         /* Responsiveness */
