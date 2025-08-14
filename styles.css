@@ -87,7 +87,7 @@ main {
 /* Optional: spezifisches Styling für die Boxen */
 #MainMap {
     background-color: #b16824;
-    flex: 0 0 70%;  /* Immer 75 % der Breite */
+    flex: 0 0 65%;  /* Immer 75 % der Breite */
 }
 
 #MapDetails {
