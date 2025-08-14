@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="tester" content="width=device-width, initial-scale=1.0">
+    <title>Maps of Tabletop</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Falls du ein externes CSS-Stylesheet verwendest -->
+</head>
+<body>
+
+    <!-- Header-Bereich -->
+    <header>
+        <div class="header-content">
+            <h1> Maps of Tabletop</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">Über uns</a></li>
+                    <li><a href="kampagne_main.html">Die Kampagne</a></li>
+                    <li><a href="table.html">Die Tabelle</a></li>
+                    <li><a href="rules.html">Die Regeln</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hauptinhalt -->
+    <main>
+
+        <div class="flex-container">
+            <div class="flexbox" id="MainMap">
+                 <img src="Map_main.png" alt="Map of Tabletop" class="map">
+              <!--   <img src="EuropeMap.jpg" alt="Map of Europe"> -->
+            </div>
+            <div class="flexbox" id="Kap2">
+                <h2>Die Kampagne</h2>
+                
+                    <h2>Kapitel 2</h2>
+                    <p>Björn der Bruderschaft, nach einem überwältigenden Sieg gegen die Targaryens, trifft nun auf Tom –  den Wildlingsführer, der sich zuletzt als äußerst gefährlich erwiesen hat. Die Schlacht in den Frostlanden ist episch. Tom, charismatisch und brutal, führt eine wilde Horde, doch Björns Disziplin und Strategie halten dagegen.
+Heinz Bolton, bereits schwer angeschlagen  , versucht verzweifelt, gegen Hagen Lennister Boden gut zu machen. Doch Hagen, ermutigt durch seinen letzten Sieg gegen Robin Stark, schlägt brutal zurück. 
+Christian Martell, gestärkt durch seinen vernichtenden Sieg gegen Robert, den Söldner, wendet sich nun gegen Paul Baratheon. Die Dornischen Reiter attackieren den Süden mit voller Härte. 
+
+Linus marschiert nun auf Robert , der bereits von den Martells zerschlagen wurde. Doch Robert kämpft trotzdem verbissen.
+Trotz allem gibt es noch eine Schlacht für Heinz Bolton: gegen Matthias,  der geschlagen aber lebendig ist. Doch Matthias ist sehr verwundet, seine Männer zu zerstreut. Dennoch ist es ein harter Kampf!
+
+In den Trümmern seiner verlorenen Festungen sammelt Robert, der einstige neutrale Lord, ein letztes Aufgebot. Getrieben von Rache und Verzweiflung richtet er seine Wut gegen die Targaryens, in der Hoffnung, sie noch vor ihrem endgültigen Aufstieg zu Fall zu bringen. Doch was Robert nicht weiß: Die Drachenanhänger sind besser organisiert, stärker als je zuvor – und bereit, jeden Gegner mit Feuer zu richten. Als Roberts Banner vor den Toren des Schwarzfeuers erscheinen, steigen Flammen in den Himmel auf. Was dort geschieht, wird nie ganz ans Licht kommen – nur Rauch und Asche bleiben zurück.
+
+Im hohen Norden, wo der Schnee nie ganz weicht, kehrt Robin Stark, zurück aufs Schlachtfeld. Noch einmal zieht er gegen Björn von der Bruderschaft ohne Banner.. Seine Krieger kennen das Terrain, und sie kämpfen mit dem Mut derer, die nichts zu verlieren haben. Die Kollision der beiden Armeen im Frostland ist brutal – ein Kampf der Ideale. Während der Wind die Schreie der Verwundeten trägt, bleibt das Ergebnis ungewiss.
+Weiter südlich, auf den Klippen der Eiseninseln, hat Jacob Greyjoy einen neuen Gegner: Linus von der Nachtwache, der einst an Stärke kaum zu überbieten war. Die Graufreuds greifen mit brutaler Präzision an – Rammen und Klingen schlagen gegen Schwarze Rüstungen, während Stürme die Küsten peitschen. Linus verteidigt sich erbittert, aber die Greyjoys sind nicht gekommen, um zu verhandeln. Ob Linus standhält oder fällt, ist eine Geschichte, die noch nicht zu Ende geschrieben ist.
+
+Währenddessen plant Hagen Lennister den Gegenschlag. Gekränkt von seiner Niederlage gegen die Nordlande, marschiert er auf die Eiseninseln, um Jacob zu stürzen und die Lannisters wieder an die Spitze des Reiches zu führen. Zwei mächtige Häuser prallen aufeinander – Gold gegen Eisen, Stolz gegen Wildheit. Doch in den Gewässern rund um Pyke entscheidet sich nicht nur der Kampf zweier Männer – sondern die Zukunft des Westens.
+
+Tom, geschwächt, aber nicht gebrochen, richtet seinen Blick gen Süden. Er stellt sich Christian Martell, der mit Feuer und Sand durch das Reich zieht. Tom hofft, mit nordischer Ehre das Blatt zu wenden. Doch Christian ist kein einfacher Gegner – seine Pläne reichen tiefer, seine Klinge schneidet gezielter. Als sich beide Armeen im Grünen Tal begegnen, zögert selbst der Wind vor dem, was kommt.
+
+Währenddessen sammeln sich die Targaryens Truppen erneut. Sie marschieren nach Norden – nicht gegen Festungen, sondern gegen Herzen. Ihr Ziel ist klar: Robin Stark soll fallen, Winterfell untergehen. Doch auch wenn der Norden brennt, gibt es immer noch Hoffnung, solange Schnee den Boden bedeckt.
+</p>
+               
+            </div>
+        </div>
